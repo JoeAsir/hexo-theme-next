@@ -102,11 +102,11 @@ social_icons:
   transition: false
 
 # Blog rolls
-#links_title: Links
+links_title: My friends
 #links_layout: block
 #links_layout: inline
-#links:
-Friends: https://www.unbelievable9.info/ 
+links:
+  Unbelievable9: https://www.unbelievable9.info/ 
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
