@@ -356,7 +356,7 @@ valine:
 # Warning: JiaThis does not support https.
 #jiathis:
   ##uid: Get this uid from http://www.jiathis.com/
-#add_this_id:
+add_this_id: ra-5a694d4d78479a8b
 
 # Share
 #duoshuo_share: true
