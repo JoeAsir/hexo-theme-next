@@ -310,7 +310,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: supaerasir
   count: false
 
@@ -341,7 +341,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC8zMzU3NS8xMDEzMA
 
 # Baidu Share
 # Available value:
